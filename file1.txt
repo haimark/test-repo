@@ -6,4 +6,4 @@ Uus rida esiemsse faili!
 Peale featuuri masterisse lisatud rida
 
 
-Peale featuuri masterisse lisatud teine rida
+featuur 2 rida mis peab confliktima
