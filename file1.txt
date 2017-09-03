@@ -6,4 +6,6 @@ Uus rida esiemsse faili!
 Peale featuuri masterisse lisatud rida
 
 
-Peale featuuri masterisse lisatud teine rida
+Masteri pohirida mis peab ka conliktima
+featuur 2 rida mis peab confliktima
+Conflikt solved!
