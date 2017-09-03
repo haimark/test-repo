@@ -6,4 +6,4 @@ Uus rida esiemsse faili!
 Peale featuuri masterisse lisatud rida
 
 
-Peale featuuri masterisse lisatud teine rida
+Masteri pohirida mis peab ka conliktima
